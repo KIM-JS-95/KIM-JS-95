@@ -4,6 +4,9 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95)](https://github.com/anuraghazra/github-readme-stats)
  
  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:baugh248730@gmail.com)
+  
+ 
 <!--
 **KIM-JS-95/KIM-JS-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
