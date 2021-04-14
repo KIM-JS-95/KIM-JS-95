@@ -13,8 +13,8 @@
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=whit)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### 👨👩 Social
  
