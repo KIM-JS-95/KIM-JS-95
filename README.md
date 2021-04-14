@@ -1,4 +1,4 @@
-# Hello Dvps! 
+# Hello Devs! 
 
 
 ### JAVA로부터 시작되는 Jr.BACK-END 개발자 김재성 입니다.
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### 👨👩 Social
- 
+
  ---------------------------------------
  
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:baugh248730@gmail.com)
