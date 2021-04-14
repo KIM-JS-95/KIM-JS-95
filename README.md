@@ -5,7 +5,7 @@
  
  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:baugh248730@gmail.com)
-  [![Instargram Badge](https://img.shields.io/badge/instartgram-1877f2?style=flat-square&logo=instargram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
+  [![Instargram Badge](https://img.shields.io/badge/instartgram-1877f2?style=flat-square&logo=Instargram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
   
  
 <!--
