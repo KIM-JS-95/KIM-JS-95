@@ -1,18 +1,17 @@
+### Hello Dvps! 
+
 ### JAVA로부터 시작되는 Jr.BACK-END 개발자 김재성 입니다.
 
 
-### SKILL
+### 📫 SKILL
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=whit)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### 👨👩 Social
  
