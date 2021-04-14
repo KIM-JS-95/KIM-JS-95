@@ -1,11 +1,17 @@
-### Hi there 👋
+### JAVA로부터 시작되는 Jr.BACK-END 개발자 김재성 입니다.
+
+
+### SKILL
+
+	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95)](https://github.com/anuraghazra/github-readme-stats)
  
  
+ ### 👨👩 Social
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:baugh248730@gmail.com)
-  [![Instargram Badge](https://img.shields.io/badge/Instartgram-1877f2?style=flat-square&logo=Instargram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
+  [![Instargram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
   
  
 <!--
