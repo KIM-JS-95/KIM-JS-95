@@ -19,11 +19,14 @@
  ### 👨👩 Social
 
  ---------------------------------------
- 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:baugh248730@gmail.com)
- [![Instargram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
 
  
+[![Instargram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
+
+**Gmail Address**
+
+**baugh248730@gmail.com**
+
  ---------------------------------------
  
 <!--
@@ -39,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
