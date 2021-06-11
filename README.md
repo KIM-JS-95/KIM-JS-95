@@ -25,7 +25,7 @@
  
 [![Instargram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/k.jasoooon/)](https://www.instagram.com/k.jasoooon/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=baugh248730@gmail.com)](baugh248730@gmail.com)
-[![-Tech%20Blog Badge](https://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=Gmail&logoColor=white&link=www.kim-js-95.github.io)](www.kim-js-95.github.io)
+[![-Tech%20Blog Badge](https://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=Gmail&logoColor=white&link=https://kim-js-95.github.io/)](https://kim-js-95.github.io/)
 
  ---------------------------------------
  
