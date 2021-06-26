@@ -37,18 +37,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM-JS-95&show_icons=true&theme=radical)
 
-
 </center>
 
 ---
-
-<center>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KIM-JS-95&repo=AbstractCnS&theme=onedark)](https://github.com/KIM-JS-95/AbstractCnS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KIM-JS-95&repo=OFDM-simulation&theme=onedark)](https://github.com/KIM-JS-95/OFDM-simulation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KIM-JS-95&repo=Univ.homepage&theme=onedark)](https://github.com/KIM-JS-95/Univ.homepage)
-
-</center>
 
 <!--
 **KIM-JS-95/KIM-JS-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
