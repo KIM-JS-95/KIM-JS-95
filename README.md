@@ -13,6 +13,7 @@
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/kotlin-1202e8?style=for-the-badge&logo=kotlin&logoColor=orange)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95)](https://github.com/anuraghazra/github-readme-stats)
 
