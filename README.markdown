@@ -10,7 +10,7 @@
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Nodejs-#FFF900?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Nodejs-FFF900?style=for-the-badge&logo=nodejs&logoColor=white)
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
