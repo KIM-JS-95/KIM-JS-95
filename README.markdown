@@ -1,10 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BECK%20END%20LIFE%20DEV.&fontSize=50&animation=fadeIn&fontAlignY=38&desc=KIM%20-JS&descAlignY=51&descAlign=70)
-
-
-[comment]: <> (![hyp3rflow's solved.ac stats]&#40;https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baugh2487&#41;)
-
----
 
 <center>
 
@@ -29,13 +23,13 @@
 ![](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=GRADLE&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 
-
-
 ---
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baugh2487)
 
 </center>
