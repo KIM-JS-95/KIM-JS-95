@@ -7,9 +7,10 @@
 
 <center>
 
-![](https://c.tenor.com/GfuuLvIZ5-4AAAAd/a-hat-in-time-gaming.gif)
+![](https://c.tenor.com/APAiiUbv2BYAAAAC/tuesday-its.gif)
 
 </center>
+
 <center>
 
 ###INFRA
@@ -17,7 +18,7 @@
 ![](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=JENKINS&logoColor=white)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
-<br>
+
 ###LANGUAGES
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,6 +30,7 @@
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=GRADLE&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+
 </center>
 
 ---
