@@ -1,23 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BECK%20END%20LIFE%20DEV.&fontSize=50&animation=fadeIn&fontAlignY=38&desc=KIM%20-JS&descAlignY=51&descAlign=70)
 
-<center>
-
-![s](https://c.tenor.com/GfuuLvIZ5-4AAAAC/a-hat-in-time-gaming.gif)
-
-</center>
-
 
 [comment]: <> (![hyp3rflow's solved.ac stats]&#40;https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baugh2487&#41;)
 
-
-
-
-
-
-<br>
-
 ---
 
+<center>
+
+![](https://c.tenor.com/GfuuLvIZ5-4AAAAd/a-hat-in-time-gaming.gif)
+
+</center>
 <center>
 
 ###INFRA
