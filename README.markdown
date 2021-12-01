@@ -23,9 +23,14 @@
 ![](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=GRADLE&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 
+<a href="https://kim-js-95.github.io/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github
+&link=https://kim-js-95.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ---
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-JS-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
