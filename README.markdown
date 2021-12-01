@@ -5,30 +5,22 @@
 
 
 ### ✨ INFRA ✨
-
 ![](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=JENKINS&logoColor=white)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
 
 ### ✨ Back-end Stack ✨
-
-
+![](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+### ✨ Back-end Stack ✨
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-FFF900?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### ✨ Cowork tools ✨
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=GRADLE&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-
-<a href="https://kim-js-95.github.io/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github
-&link=https://kim-js-95.github.io/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+![](http://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=github&link=https://kim-js-95.github.io/)
 
 ---
 
