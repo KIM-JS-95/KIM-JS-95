@@ -20,6 +20,7 @@
 ### ✨ Cowork tools ✨
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=GRADLE&logoColor=white)
+### ✨ My Blog ✨ 
 ![](http://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=github&link=https://kim-js-95.github.io/)
 
 ---
