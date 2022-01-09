@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=GRADLE&logoColor=white)
 ### ✨ My Blog ✨
 ![](http://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=github&link=https://kim-js-95.github.io/)
-[](https://kim-js-95.github.io/)
+[Click here!](https://kim-js-95.github.io/)
 
 ---
 
