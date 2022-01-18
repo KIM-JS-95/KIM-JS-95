@@ -12,10 +12,9 @@
 ### ✨ Back-end Stack ✨
 ![](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-### ✨ Back-end Stack ✨
+### ✨ Front-end Stack ✨
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-FFF900?style=for-the-badge&logo=NODE.JS&logoColor=white)
+![spring](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ### ✨ Cowork tools ✨
 ![LINUX MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
