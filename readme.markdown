@@ -1,5 +1,3 @@
-<br>
-<br>
 
 # Hi, I'm KIM JAESEONG 👋
 ## 🐋 Of the server! by the server! for the server! 🐋
