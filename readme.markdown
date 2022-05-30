@@ -51,7 +51,7 @@ We are currently focusing on Docker🐋 image management and build and container
 <a href="mailto:baugh248730@gmail.com">
 <img src="https://img.icons8.com/nolan/50/gmail-new.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://json0506.notion.site/BE-f943fe4aec18422186b16ca0608f7e9f">
+<a href="https://json0506.notion.site/">
 <img src="https://img.icons8.com/nolan/50/notion.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://www.instagram.com/?hl=ko">
