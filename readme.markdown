@@ -45,16 +45,21 @@ We are currently focusing on Docker🐋 image management and build and container
 ## Find me elsewhere 🌏
 
 <br>
-<a href="https://www.linkedin.com/in/kim-jaeseong-6251221a6/">
-<img src="https://img.icons8.com/nolan/50/linkedin-circled.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="mailto:baugh248730@gmail.com">
-<img src="https://img.icons8.com/nolan/50/gmail-new.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
-</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://json0506.notion.site/">
-<img src="https://img.icons8.com/nolan/50/notion.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/nolan/60/notion.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://www.instagram.com/?hl=ko">
-<img src="https://img.icons8.com/officel/50/000000/instagram-new.png"/>
+
+<a href="https://programmers.co.kr/pr/baugh248730_6506">
+<img src="https://avatars.githubusercontent.com/u/88082564?s=55&v=4"/>
+</a>
+&nbsp&nbsp&nbsp
+
+<a href="mailto:baugh248730@gmail.com">
+<img src="https://img.icons8.com/nolan/65/gmail-new.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://www.linkedin.com/in/kim-jaeseong-6251221a6/">
+<img src="https://img.icons8.com/nolan/60/linkedin-circled.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
