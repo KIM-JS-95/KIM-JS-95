@@ -54,8 +54,7 @@ We are currently focusing on Docker🐋 image management and build and container
 <a href="https://programmers.co.kr/pr/baugh248730_6506">
 <img src="https://avatars.githubusercontent.com/u/88082564?s=55&v=4"/>
 </a>
-&nbsp&nbsp&nbsp
-
+&nbsp&nbsp&nbsp&nbsp
 <a href="mailto:baugh248730@gmail.com">
 <img src="https://img.icons8.com/nolan/65/gmail-new.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
