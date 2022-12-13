@@ -27,34 +27,30 @@ We are currently focusing on Docker🐋 image management and build and container
 
     <details>
         <summary style="color:yellow;">Develope Posting</summary>
-        <div markdown="1">
-            - <a href="https://languagefight.tistory.com/196" style="text-decoration:underline;">스핑크스 특징 및 문제점<br>
-           
-            - <a href="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A0.markdown" style="text-decoration:underline;">쿼리 로직 개선과 PHP 로직 개선<br>
-           
-            - <a href="">후기<br>
-    </div>
-    </details>
+   
+   * <a href="https://languagefight.tistory.com/196" style="text-decoration:underline;">스핑크스 특징 및 문제점<br>
+   * <a href="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A0.markdown" style="text-decoration:underline;">쿼리 로직 개선과 PHP 로직 개선<br>
+   * <a href="">후기<br>
+       </details>
 
 2. [YTN 인포페이지](https://infor.ytn.co.kr/) 개편 (2022.11.21 ~ 2023.02.01)
    - 디자인 변경과 로직 추가
    - 최초 완전한 서비스 개편
-<details>
-  <summary style="color:yellow;">Develope Posting</summary>
-  <div markdown="1">
-      - <a href="">후기<br>
-     
-  </div>
-</details>
+   <details>
+      <summary style="color:yellow;">Develope Posting</summary>
+
+   * <a href="">후기<br>
+
+
+   </details>
          
          
 3. 카카오 모빌리티 뉴스 스크립트 변경(2022.11.25 ~ 2022.11.30)
    - 카카오 모빌리티 요청에 따른 json 형식 변경
    - 기능 추가에 따른 로직 개선
-<details>
-  <summary style="color:yellow;">Develope Posting</summary>
-  <div markdown="1">
-      - <a src="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A02.markdown" style="text-decoration:underline;">json 데이터 변형 과 while 문 사용 주의<br>
-     
-  </div>
-</details>
+   <details>
+     <summary style="color:yellow;">Develope Posting</summary>
+
+   * <a href="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A02.markdown" style="text-decoration:underline;">json 데이터 변형 과 while 문 사용 주의<br>
+
+   </details>
