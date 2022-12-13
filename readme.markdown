@@ -21,28 +21,37 @@ We are currently focusing on Docker🐋 image management and build and container
 ## 🕵️‍♀️ What did I make it?
 ### YTN (2022.09.05 ~ )
 
-1. YTN 검색 엔진 변경 프로젝트 (2022.09.21 ~ 2022.10.12)
+1. [YTN](https://www.ytn.co.kr/) 검색 엔진 변경 프로젝트 (2022.09.21 ~ 2022.12.12)
    - ZOOM 검색 엔진 계약 만료로 인한 새로운 검색엔진 개발 및 적용
-   - YTN 의 모든 서비스를 통하는 검색 서비스 개발
+   - YTN 및 계열사 검색 서비스 개발 및 개선
 
     <details>
         <summary style="color:yellow;">Develope Posting</summary>
         <div markdown="1">
-            <a src="">스핑크스 적용<br>
-            <a src="">쿼리 로직 개선과 PHP 로직 개선<br>
+            <a src="https://languagefight.tistory.com/196">스핑크스 특징 및 문제점<br>
+            <a src="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A0.markdown">쿼리 로직 개선과 PHP 로직 개선<br>
             <a src="">후기<br>
     </div>
     </details>
 
-1. CDN to AWS S3  (2022.10.14 ~ )
-    - ZOOM 검색 엔진 계약 만료로 인한 새로운 검색엔진 개발 및 적용
-    - YTN 의 모든 서비스를 통하는 검색 서비스 개발
-
-    <details>
-        <summary style="color:yellow;">Develope Posting</summary>
-        <div markdown="1">
-            <a src="">스핑크스 적용<br>
-            <a src="">쿼리 로직 개선과 PHP 로직 개선<br>
-            <a src="">후기<br>
-    </div>
-    </details>
+2. [YTN 인포페이지](https://infor.ytn.co.kr/) 개편 (2022.11.21 ~ 2023.02.01)
+               
+<details>
+  <summary style="color:yellow;">Develope Posting</summary>
+  <div markdown="1">
+      <a src="https://languagefight.tistory.com/196">스핑크스 특징 및 문제점<br>
+      <a src="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A0.markdown">쿼리 로직 개선과 PHP 로직 개선<br>
+      <a src="">후기<br>
+  </div>
+</details>
+         
+         
+3. 카카오 모빌리티 뉴스 스크립트 변경(2022.11.25 ~ 2022.11.30)
+               
+<details>
+  <summary style="color:yellow;">Develope Posting</summary>
+  <div markdown="1">
+      <a src="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A02.markdown">json 데이터 변형 과 while 문 사용 주의<br>
+      <a src="">후기<br>
+  </div>
+</details>
