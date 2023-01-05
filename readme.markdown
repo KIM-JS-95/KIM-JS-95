@@ -31,7 +31,7 @@ We are currently focusing on Docker🐋 image management and build and container
        * <a href="https://languagefight.tistory.com/198">스핑크스 검색 문제 개선</a><br>
        * <a href="https://languagefight.tistory.com/195">쿼리 로직 개선과 PHP 로직 개선</a><br>
        * <a href="https://languagefight.tistory.com/197"></a>Ngram Algorithm<br>
-       * <a href="">후기</a><br>
+       * <a href="https://languagefight.tistory.com/204">후기</a><br>
    </details>
 
 
