@@ -27,62 +27,28 @@ We are currently focusing on Docker🐋 image management and build and container
 
     <details>
         <summary style="color:yellow;">Develope Posting</summary>
-<<<<<<< HEAD
-      * <a href="https://languagefight.tistory.com/196" style="text-decoration:underline;">스핑크스 특징 및 문제점</a><br>
-      * <a href="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A0.markdown" style="text-decoration:underline;">쿼리 로직 개선과 PHP 로직 개선</a><br>
-      * <a href="">후기</a><br>
+       * <a href="https://languagefight.tistory.com/196">스핑크스 특징 및 문제점</a><br>
+       * <a href="https://languagefight.tistory.com/198">스핑크스 검색 문제 개선</a><br>
+       * <a href="https://languagefight.tistory.com/195">쿼리 로직 개선과 PHP 로직 개선</a><br>
+       * <a href="https://languagefight.tistory.com/197"></a>Ngram Algorithm<br>
+       * <a href="">후기</a><br>
    </details>
 
-   
-=======
-   
-   * <a href="https://languagefight.tistory.com/196" style="text-decoration:underline;">스핑크스 특징 및 문제점<br>
-   * <a href="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A0.markdown" style="text-decoration:underline;">쿼리 로직 개선과 PHP 로직 개선<br>
-   * <a href="">후기<br>
-       </details>
 
->>>>>>> 4ab09c343d53edcbf6897e15a6f7d8b9ad448df8
 2. [YTN 인포페이지](https://infor.ytn.co.kr/) 개편 (2022.11.21 ~ 2023.02.01)
    - 디자인 변경과 로직 추가
    - 최초 완전한 서비스 개편
    <details>
       <summary style="color:yellow;">Develope Posting</summary>
-<<<<<<< HEAD
-      * <a href="https://languagefight.tistory.com/201">스크롤링 이벤트 발생시키기</a><br>
-      * <a href="">후기</a></br>
-   </details>
-
-
-=======
-
-   * <a href="">후기<br>
-
-
+        * <a href="">후기</a><br>
    </details>
          
-         
->>>>>>> 4ab09c343d53edcbf6897e15a6f7d8b9ad448df8
+
 3. 카카오 모빌리티 뉴스 스크립트 변경(2022.11.25 ~ 2022.11.30)
    - 카카오 모빌리티 요청에 따른 json 형식 변경
    - 기능 추가에 따른 로직 개선
    <details>
      <summary style="color:yellow;">Develope Posting</summary>
-<<<<<<< HEAD
-   * <a href="https://languagefight.tistory.com/200">PHP 코드개선</a><br>
-   * <a href="https://languagefight.tistory.com/199">json 데이터 변형 과 while 문 사용 주의</a><br>
-   * <a href="https://languagefight.tistory.com/203">후기</a><br>
-   </details>
-
-
-4. Closed User Group FTP to Object Storage Migration(23.01.02 ~)
-   - GS칼텍스 서버 유료화로 인한 Storage 변경
-   
-   <details>
-      <summary style="color:yellow;">Develope Posting</summary>
-      * <a href="">후기</a><br>
-=======
-
-   * <a href="https://github.com/KIM-JS-95/TIL/blob/master/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/PHP%EC%BD%94%EB%93%9C%EA%B0%9C%EC%84%A02.markdown" style="text-decoration:underline;">json 데이터 변형 과 while 문 사용 주의<br>
-
->>>>>>> 4ab09c343d53edcbf6897e15a6f7d8b9ad448df8
+       * <a href="https://languagefight.tistory.com/199">json 데이터 변형 과 while 문 사용 주의</a><br>
+       * <a href="https://languagefight.tistory.com/203">후기</a><br>
    </details>
