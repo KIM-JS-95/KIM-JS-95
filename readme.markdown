@@ -2,20 +2,14 @@
 # Hi, I'm KIM JAESEONG 👋
 ## 🐋 Of the server! by the server! for the server! 🐋
 
-더 많은 사람들이 쉽게 접하고 다룰 수  있는 서비스를 안정적으로 운영하고 개발하는 백엔드 개발자를 목표로 울면서 공부하는 😭 주니어 개발자 입니다.
+더 많은 사람들이 쉽게 접하고 다룰 수  있는 서비스를 안정적으로 운영하고 개발하는 주니어 개발자 입니다.
 
 필요한 서비스, 오래 지속되는 서비스, 친절한 서비스를 만들자는 자세로 노력하고있습니다.
 
 
-A junior developer who studies while crying with the goal of a backend developer who reliably operates and develops services that more people can easily access and handle.
-
-We are trying to create necessary services, long-lasting services, and friendly services.
-
 ## 👨‍💻 What I'm focusing on
-현재 배포를 위한 Docker🐋 이미지 관리 및 빌드 와 컨테이너 구축 학습에 집중하고 있습니다.
 
-We are currently focusing on Docker🐋 image management and build and container deployment learning for deployment.
-
+기업 서비스 운영을 위해 PHP 개발과 협업에 집중하고 있어요!
 
 
 ## 🕵️‍♀️ What did I make it?
@@ -34,6 +28,7 @@ We are currently focusing on Docker🐋 image management and build and container
        * <a href="https://languagefight.tistory.com/204">후기</a><br>
    </details>
 
+<br>
 
 2. [YTN 인포페이지](https://infor.ytn.co.kr/) 개편 (2022.11.21 ~ 2023.02.01)
    - 디자인 변경과 로직 추가
@@ -42,7 +37,8 @@ We are currently focusing on Docker🐋 image management and build and container
       <summary style="color:yellow;">Develope Posting</summary>
         * <a href="">후기</a><br>
    </details>
-         
+
+<br>         
 
 3. 카카오 모빌리티 뉴스 스크립트 변경(2022.11.25 ~ 2022.11.30)
    - 카카오 모빌리티 요청에 따른 json 형식 변경
@@ -52,3 +48,14 @@ We are currently focusing on Docker🐋 image management and build and container
        * <a href="https://languagefight.tistory.com/199">json 데이터 변형 과 while 문 사용 주의</a><br>
        * <a href="https://languagefight.tistory.com/203">후기</a><br>
    </details>
+
+<br>
+
+4. 서울타워 및 개발팀 CUG CDN 방식 변경(2023.01.03 ~ 2023.01.31)
+   - GS네오텍 FTP 서버 용량 부족에 따른 Object Storage (AWS S3) 마이그레이션 
+   <details>
+     <summary style="color:yellow;">Develope Posting</summary>
+       * <a href="">코드이그나이터가 뭔데?</a><br>
+       * <a href="">후기</a><br>
+   </details>
+   
