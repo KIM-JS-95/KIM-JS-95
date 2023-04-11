@@ -56,6 +56,6 @@
    <details>
      <summary style="color:yellow;">Develope Posting</summary>
        * <a href="">코드이그나이터가 뭔데?</a><br>
-       * <a href="">후기</a><br>
+       * <a href="https://languagefight.tistory.com/208">후기</a><br>
    </details>
    
